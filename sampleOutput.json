@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "AP",
+      "title": "González, Gotham Win NWSL Championship After Megan Rapinoe's Career Ends With An Injury",
+      "description": "The National Women’s Soccer League championship match was in its first few minutes when Megan Rapinoe hobbled off the pitch in a heartbreaking end to her career.",
+      "url": "https://www.huffpost.com/entry/nwsl-championship-megan-rapinoe-injury_n_65505b99e4b0c9f246605f66",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65505b9b240000a8175537fa.jpeg?cache=ernUkQtyRs&ops=1200_630",
+      "publishedAt": "2023-11-12T05:04:22Z",
+      "content": "SAN DIEGO (AP) World Cup winner Esther González scored the go-ahead goal on a header in first-half stoppage time and Gotham FC survived a wild finish to beat OL Reign 2-1 on Saturday night in a Natio… [+2323 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Morik",
+      "title": "Megan Rapinoe leaves final game of career after non-contact injury less than 3 minutes into match",
+      "description": "In the final game of her illustrious career, USA soccer legend Megan Rapinoe suffered a non-contact injury just three minutes in, ending her night early.",
+      "url": "https://www.foxnews.com/sports/megan-rapinoe-leaves-final-game-career-non-contact-injury-less-than-3-minutes-into-match",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/megan-rapinoe-injury.jpg",
+      "publishedAt": "2023-11-12T02:42:14Z",
+      "content": "Megan Rapinoe's career is not going to end as she had hoped.\r\nShe left the field Saturday to an ovation after she suffered a non-contact injury less than three minutes into the final game of her care… [+1703 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Cesar Hernandez",
+      "title": "Megan Rapinoe exits NWSL championship with injury in final game - ESPN",
+      "description": "Megan Rapinoe's professional soccer career ended in cruel fashion as an injury forced the OL Reign star to be substituted in just the sixth minute of Saturday's NWSL championship again NJ/NY Gotham FC.",
+      "url": "https://www.espn.com/soccer/story/_/id/38875225/megan-rapinoe-exits-nwsl-championship-injury-final-game",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1112%2Fr1251977_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-11-12T01:45:00Z",
+      "content": "Nov 11, 2023, 08:45 PM ET\r\nSAN DIEGO -- Megan Rapinoe's professional soccer career ended in cruel fashion Saturday as an injury forced the OL Reign star to be substituted in just the sixth minute of … [+1213 chars]"
+    }
+  ]
+}
